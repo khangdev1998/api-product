@@ -21,5 +21,54 @@
       "name": "MacBook Pro 14",
       "display": "Liquid Retina XDR"
     },
+    {
+      "date": "2023-09-30",
+      "orderID": "JKL012",
+      "price": "$399",
+      "name": "Apple Watch Series 8",
+      "display": "OLED"
+    },
+    {
+      "date": "2023-10-15",
+      "orderID": "MNO345",
+      "price": "$249",
+      "name": "AirPods Pro 2",
+      "display": "No Display"
+    },
+    {
+      "date": "2023-11-20",
+      "orderID": "PQR678",
+      "price": "$2,499",
+      "name": "iMac Pro 2023",
+      "display": "5K Retina"
+    },
+    {
+      "date": "2023-10-10",
+      "orderID": "STU901",
+      "price": "$179",
+      "name": "Apple TV 4K Plus",
+      "display": "4K UHD"
+    },
+    {
+      "date": "2023-11-01",
+      "orderID": "VWX234",
+      "price": "$899",
+      "name": "Mac Mini Pro",
+      "display": "No Display"
+    },
+    {
+      "date": "2023-09-25",
+      "orderID": "YZA567",
+      "price": "$99",
+      "name": "Apple HomePod Mini 2",
+      "display": "No Display"
+    },
+    {
+      "date": "2023-10-05",
+      "orderID": "BCD890",
+      "price": "$1,199",
+      "name": "MacBook Air Pro",
+      "display": "Retina"
+    }
   ]
 }
