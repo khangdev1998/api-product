@@ -1,0 +1,126 @@
+const productsData = {
+  products: [
+    {
+      order_id: "ABC123",
+      name: "iPhone 14 Pro Max",
+      description:
+        "The ultimate iPhone with a 6.7-inch Super Retina XDR display, A16 Bionic chip, and Pro camera system.",
+      display: "Super Retina XDR",
+      price: "$1,299",
+      color: ["Graphite", "Silver", "Gold", "Pacific Blue"],
+      storage: ["128GB", "256GB", "512GB"],
+      rating: 4.8,
+      date: "2023-09-15",
+    },
+    {
+      order_id: "DEF456",
+      name: "iPad Air 5",
+      description:
+        "Thin and powerful, featuring a 10.9-inch Liquid Retina display, A15 Bionic chip, and Apple Pencil support.",
+      display: "Liquid Retina",
+      price: "$599",
+      color: ["Space Gray", "Silver", "Sky Blue", "Green"],
+      storage: ["64GB", "256GB"],
+      rating: 4.7,
+      date: "2023-10-01",
+    },
+    {
+      order_id: "GHI789",
+      name: "MacBook Pro 14",
+      description:
+        "The next-gen MacBook Pro with a 14-inch Liquid Retina XDR display, M2 Pro chip, and MagSafe 3.",
+      display: "Liquid Retina XDR",
+      price: "$1,999",
+      color: ["Space Gray", "Silver"],
+      storage: ["512GB", "1TB"],
+      rating: 4.9,
+      date: "2023-11-05",
+    },
+    {
+      order_id: "JKL012",
+      name: "Apple Watch Series 8",
+      description:
+        "Stay connected and active with the Apple Watch Series 8, featuring a larger display and advanced health tracking.",
+      display: "OLED",
+      price: "$399",
+      color: [
+        "Silver Aluminum",
+        "Space Black Stainless Steel",
+        "Gold Aluminum",
+      ],
+      size: ["40mm", "44mm"],
+      rating: 4.6,
+      date: "2023-09-30",
+    },
+    {
+      order_id: "MNO345",
+      name: "AirPods Pro 2",
+      description:
+        "Immerse yourself in rich, adaptive audio with the AirPods Pro 2, featuring active noise cancellation.",
+      price: "$249",
+      color: ["White"],
+      rating: 4.8,
+      date: "2023-10-15",
+      display: "No Display"
+    },
+    {
+      order_id: "PQR678",
+      name: "iMac Pro 2023",
+      description:
+        "A powerful all-in-one desktop with a 27-inch 5K Retina display, M2X chip, and stunning design options.",
+      display: "5K Retina",
+      price: "$2,499",
+      color: ["Silver", "Space Gray", "Blue", "Green"],
+      storage: ["1TB", "2TB"],
+      rating: 4.7,
+      date: "2023-11-20",
+    },
+    {
+      order_id: "STU901",
+      name: "Apple TV 4K Plus",
+      description:
+        "Upgrade your entertainment with the Apple TV 4K Plus, featuring Dolby Vision and A14 Bionic chip.",
+      display: "4K UHD",
+      price: "$179",
+      color: ["Black"],
+      storage: ["32GB", "64GB"],
+      rating: 4.5,
+      date: "2023-10-10",
+    },
+    {
+      order_id: "VWX234",
+      name: "Mac Mini Pro",
+      description:
+        "A compact powerhouse with the M2 chip, suitable for a wide range of professional tasks.",
+      price: "$899",
+      color: ["Space Gray", "Silver"],
+      storage: ["256GB", "512GB"],
+      rating: 4.6,
+      date: "2023-11-01",
+      display: "No Display"
+    },
+    {
+      order_id: "YZA567",
+      name: "Apple HomePod Mini 2",
+      description:
+        "Enhance your smart home with the HomePod Mini 2, featuring improved Siri integration and audio quality.",
+      price: "$99",
+      color: ["White", "Space Gray"],
+      rating: 4.5,
+      date: "2023-09-25",
+      display: 'No Display'
+    },
+    {
+      order_id: "BCD890",
+      name: "MacBook Air Pro",
+      description:
+        "The perfect balance of performance and portability with the M2 chip, feather-light design, and Retina display.",
+      display: "Retina",
+      price: "$1,199",
+      color: ["Space Gray", "Silver", "Rose Gold"],
+      storage: ["256GB", "512GB"],
+      rating: 4.7,
+      date: "2023-10-05",
+    },
+  ],
+};
