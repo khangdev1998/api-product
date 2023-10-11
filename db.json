@@ -1,31 +1,25 @@
 {
-  "posts": [
+  "products": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "date": "2023-09-15",
+      "orderID": "ABC123",
+      "price": "$1,299",
+      "name": "iPhone 14 Pro Max",
+      "display": "Super Retina XDR"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "date": "2023-10-01",
+      "orderID": "DEF456",
+      "price": "$599",
+      "name": "iPad Air 5",
+      "display": "Liquid Retina"
     },
     {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "date": "2023-11-05",
+      "orderID": "GHI789",
+      "price": "$1,999",
+      "name": "MacBook Pro 14",
+      "display": "Liquid Retina XDR"
     },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
